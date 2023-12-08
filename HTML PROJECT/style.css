@@ -1,0 +1,39 @@
+h1{
+    margin-top: 0;
+    padding: 3px;
+    color: rgb(15, 15, 110);
+    background-color: rgb(240, 224, 224);
+}
+li,u1{
+    display: inline;
+    text-align: center;
+    padding: 10px;
+   
+}
+li{
+    color: grey;
+    cursor: pointer;
+}
+li:hover{
+    color: rgb(230, 190, 190);
+
+}
+p{
+    text-align: center;
+    padding-top: 0;
+}
+img{
+    width: 350px;
+    text-align: center;
+    padding: 5px;
+}
+p{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+a{
+    padding: 10px;
+
+}
